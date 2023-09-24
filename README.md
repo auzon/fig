@@ -21,3 +21,5 @@ Add these parameters to the basic usage
 ```bash
 --html=./reports/report.html --self-contained-html
 ```
+
+![Basic Usage](/demo/basic_usage.gif?raw=true "Basic Usage")
