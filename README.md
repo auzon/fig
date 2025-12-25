@@ -1,8 +1,7 @@
 # Fig
 
 Fig is an example repository to start your web tests using BDD approach.
-It uses the combination of python, pytest, pytest-bdd, selenium and page object model.
-There are ofcourse other modules and patterns exist but these constructs the core of the repository.
+It uses the combination of python, pytest, pytest-bdd, selenium and page object model at its core.
 You can expand upon it and use it in your own projects.
 
 ## Examples on how to run
